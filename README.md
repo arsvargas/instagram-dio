@@ -12,4 +12,6 @@ I changed the profile picture;
 
 I change the name references;
 
+I changed the background color to the same of the original page of instagram; 
+
 I exercised all I've learned about flexbox!
