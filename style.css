@@ -24,7 +24,7 @@ body {
 .instagram-wrapper {
     display: flex;
     align-items: center;
-    justify-content: start;
+    margin: 0 auto;
     width: 60%;
     height: 80vh;
 }
